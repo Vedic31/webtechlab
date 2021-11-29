@@ -1,3 +1,4 @@
+create database db;
 USE db;
 CREATE TABLE users (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
